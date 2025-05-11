@@ -23,4 +23,4 @@ The script interacts with the user through the terminal, asking for:
 
 Each input is validated. If a value meets any SIRS criteria, it adds one point to the total score. At the end, the total SIRS score is printed and a final message tells whether the patient meets the SIRS condition.
 
---> This mini project was made based on a online artifical inteligence medical course.
+--> This mini project was made based on an online artifical inteligence medical course.
