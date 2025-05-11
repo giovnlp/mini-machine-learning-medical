@@ -44,5 +44,5 @@ A simple **Multi-Layer Perceptron (MLP)** classifier from `scikit-learn` is used
 
 
 
---> This mini project was made based on a online artifical inteligence medical course.
+--> This mini project was made based on an online artifical inteligence medical course.
 
